@@ -1,3 +1,7 @@
+
+
+changing the file
+
 # Assignment 01 – Say Hello to `.git` 🚀
 *Estimated time — 30‑40 minutes*
 
@@ -118,6 +122,8 @@ git show
 Write one interesting flag or line of output you didn’t know about.
 
 ---
+
+
 
 ### Cheatsheet for Windows PowerShell / CMD
 
